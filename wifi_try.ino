@@ -6,8 +6,8 @@
 #include <WiFi.h>
 
 
-const char* ssid="realme 2";
-const char* password ="12345678";
+const char* ssid="******";
+const char* password ="*****";
 const int ledPin1 =  2;
 const int ledPin2 =  5;
 
