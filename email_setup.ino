@@ -1,11 +1,11 @@
 #include "ESP32_MailClient.h"
 
-const char* ssid = "realme 2";
-const char* password = "12345678";
+const char* ssid = "******";
+const char* password = "********";
 
-#define emailSenderAccount"subashdevaraj@gmail.com"
-#define emailSenderPassword"bdrgloyexyknkzju"
-#define emailRecipient "subashdevaraj@gmail.com"
+#define emailSenderAccount"**********@gmail.com"
+#define emailSenderPassword"**********"
+#define emailRecipient "**********@gmail.com"
 #define smtpServer"smtp.gmail.com"
 #define smtpServerPort 465
 #define emailSubject "ESP32 Testing Email"
