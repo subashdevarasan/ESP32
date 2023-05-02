@@ -2,8 +2,8 @@
 #include <WebServer.h>
  
 /* Put your SSID & Password */
-const char* ssid = "Subash ESP";  // Enter SSID here
-const char* password = "123456789";  //Enter Password here
+const char* ssid = "********";  // Enter SSID here
+const char* password = "********";  //Enter Password here
  
 /* Put IP Address details */
 IPAddress local_ip(192,168,0,165);
