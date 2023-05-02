@@ -3,11 +3,11 @@
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
 
-const char* ssid ="realme 2";
-const char* password= "12345678";
+const char* ssid ="**********";
+const char* password= "*********";
 
-#define BOTtokenValue"6159234928:AAGDeIAlmnRnYvPSlu_951Rp_rOSKL0UAFw"
-#define OUR_CHAT_ID"808155661"
+#define BOTtokenValue"**************************"
+#define OUR_CHAT_ID"**************"
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtokenValue,client);
