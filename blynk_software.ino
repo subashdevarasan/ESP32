@@ -18,7 +18,7 @@ int moistureLevel;
 DHT dht(DHPIN,DHTYPE);
 BlynkTimer timer;
 
-char auth[]= "YjD70tmlpQpd6v5J6jLGDdJEDFWchWXW";
+char auth[]= "*******************";
 
 char ssid[]="realme 2";
 char pass[]="12345678";
