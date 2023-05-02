@@ -3,8 +3,8 @@
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
 
-const char* ssid ="realme 2";
-const char* password= "12345678";
+const char* ssid ="********";
+const char* password= "********";
 
 #define BOTtokenValue""
 #define OUR_CHAT_ID""
