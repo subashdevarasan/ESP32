@@ -3,7 +3,7 @@
 $servername = "localhost";
 $dbname ="pathavanesp32";
 $username = "PATHAVAN";
-$password ="TestingESP32@";
+$password ="********";
 
 $api_key_value = "Testin32ESP@";
 $api_key = $SENSORDATA =$LOCATIONDATA =$value1= $value2 = $value3=$reading_time = "";
